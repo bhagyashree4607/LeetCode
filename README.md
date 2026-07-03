@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhagyashree4607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhagyashree4607/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
