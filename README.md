@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhagyashree4607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhagyashree4607/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -21,10 +22,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
