@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bhagyashree4607/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhagyashree4607/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhagyashree4607/LeetCode/tree/master/0169-majority-element) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhagyashree4607/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhagyashree4607/LeetCode/tree/master/0283-move-zeroes) |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bhagyashree4607/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
