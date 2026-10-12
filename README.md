@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhagyashree4607/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhagyashree4607/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhagyashree4607/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,16 +60,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhagyashree4607/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/bhagyashree4607/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhagyashree4607/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhagyashree4607/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
