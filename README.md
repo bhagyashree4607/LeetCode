@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhagyashree4607/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhagyashree4607/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhagyashree4607/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhagyashree4607/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhagyashree4607/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0268-missing-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
