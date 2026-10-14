@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/bhagyashree4607/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhagyashree4607/LeetCode/tree/master/0268-missing-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhagyashree4607/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhagyashree4607/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhagyashree4607/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhagyashree4607/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhagyashree4607/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
